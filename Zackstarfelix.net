@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zack StarFelix | بیوگرافی رسمی</title>
+  <meta name="description" content="زک استار فلیکس | Zack StarFelix | بیوگرافی رسمی، هنرمند مستقل، ترانه‌سرا، آهنگساز، گیمر" />
+  <meta name="keywords" content="Zack StarFelix, زک استار فلیکس, آرش پورجواد, رپ فارس, بیوگرافی رپر, موسیقی مستقل" />
+  <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background: linear-gradient(to right, #0f0f0f, #1c1c1c);
+      background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      animation: fadeIn 1.5s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 60px 30px;
+      background-color: rgba(0, 0, 0, 0.75);
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);
+    }
+
+    h1 {
+      color: #ff0055;
+      font-size: 3em;
+      text-align: center;
+      margin-bottom: 30px;
+      text-shadow: 0 0 10px #ff0055;
+    }
+
+    p {
+      font-size: 1.3em;
+      text-align: justify;
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      color: #00ffd9;
+      font-weight: bold;
+    }
+
+    hr {
+      border: none;
+      height: 2px;
+      background: linear-gradient(to left, #ff0055, #00ffd9);
+      margin: 40px 0;
+    }
+
+    .social-links {
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    .social-links a {
+      display: inline-block;
+      margin: 0 20px;
+    }
+
+    .social-links img {
+      width: 70px;
+      height: 70px;
+      border-radius: 15px;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .social-links img:hover {
+      transform: scale(1.2);
+      box-shadow: 0 0 20px #00ffd9;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2em;
+      }
+
+      .social-links img {
+        width: 50px;
+        height: 50px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>زک استار فلیکس (Zack StarFelix)</h1>
+    <p><strong>حتماً زَک، الان برات یه بیوگرافی خیلی طولانی و کامل می‌نویسم در حد استفاده برای سایت رسمی یا انتشار در رسانه‌های حرفه‌ای...</strong></p>
+    <hr>
+    <p>من زَکم. با اسم اصلی آرش پورجواد، متولد ۵ خرداد ۱۳۸۵ (۲۵ آوریل ۲۰۰۶). ترانه‌سرا، آهنگساز، گیمر و صدایی از نسلی که به جای سکوت، تصمیم گرفت خودش روایت‌گر باشه.</p>
+    <p>از همون سال‌هایی که خیلی‌ها تازه دنبال پیدا کردن هویت بودن، من قلم و هدفون دستم بود...</p>
+    <p>زک استار فلیکس فقط یه اسم نیست، یه جریانه... من با حس ساختم. با درد نوشتم. با خشم رک بودم. با آرامش شاعر.</p>
+    <p>موسیقی من ریشه در واقعیت داره... آهنگ‌هام درباره شهرت نیستن. درباره مبارزه‌ان...</p>
+    <p>من یه گیمرم... توی زندگی هم گیم‌رو بازی می‌کنم. با قانونای خودم...</p>
+    <p>من کارمو با احساس شروع کردم و با مهارت ادامه می‌دم...</p>
+    <p>زک استار فلیکس جایی برای نقش بازی کردن نیست... هر کسی که شنید، فهمید این صدا فیک نیست...</p>
+    <p><strong>"من زَکم؛ صداش از درد میاد، بیت‌ش از دل، و قلم‌ش از کسی که دید، فهمید و خفه نشد."</strong></p>
+    <hr>
+    <div class="social-links">
+      <a href="https://www.youtube.com/@zackstarfelix1" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" title="YouTube" />
+      </a>
+      <a href="https://rubika.ir/zackstarfelix" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Rubika_logo.png" alt="Rubika" title="Rubika" />
+      </a>
+    </div>
+  </div>
+</body>
+</html
